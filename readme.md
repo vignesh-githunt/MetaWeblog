@@ -1,4 +1,4 @@
-# WilderMinds.MetaWeblog
+# WilderMinds.MetaWeblog Events
 
 Build Status: ![Build Status](https://github.com/shawnwildermuth/metaweblog/workflows/BuildAndTest/badge.svg)
 
