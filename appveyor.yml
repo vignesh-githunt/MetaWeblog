@@ -7,7 +7,7 @@ init:
  - git config --global core.autocrlf true
  
 cache:
-  - '%APPDATA%\npm-cache'             # npm cache
+  - '%APPDATA%\npm-cache            # npm cache
   
 install:
  - cmd: nuget sources add -Name api.nuget.org -Source https://api.nuget.org/v3/index.json
