@@ -357,5 +357,4 @@ namespace MetaWeblog.Tests
     }
 
 
-  }
-}
+  
