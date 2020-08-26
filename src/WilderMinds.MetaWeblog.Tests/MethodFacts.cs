@@ -355,6 +355,9 @@ namespace MetaWeblog.Tests
         return doc;
       }
     }
+    
+  }
+}
 
 
   
